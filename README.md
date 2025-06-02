@@ -88,4 +88,3 @@ LinkedIn: https://www.linkedin.com/in/ar-shenoy
 
 GitHub: https://github.com/ar-shenoy?tab=repositories
 
-https://github.com/user-attachments/assets/f8d8a00c-e295-4e3d-b137-ae68e5baa45e
