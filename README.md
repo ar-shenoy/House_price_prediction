@@ -4,6 +4,9 @@
 
 This project predicts house prices in Bangalore using machine learning. A web application is built using HTML, CSS, JavaScript, and Flask to make it interactive and production-ready. The backend is powered by a Linear Regression model trained on the Bangalore housing dataset, with an accuracy of 84%-86%.
 
+## **Web App preview**
+![Prediction Web App](House_price_banglore.png)
+
 ## **Problem Statement**
 
 House buyers and sellers often find it hard to estimate a fair price for a property. This project solves that problem by using real data and a trained ML model to make quick, reliable price predictions based on a few input features.
@@ -87,4 +90,3 @@ Email: adarshrshenoy1@gmail.com
 LinkedIn: https://www.linkedin.com/in/ar-shenoy
 
 GitHub: https://github.com/ar-shenoy?tab=repositories
-
